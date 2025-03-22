@@ -45,8 +45,14 @@ The **tuned Random Forest model** achieved the best performance. An interactive 
 2. Install dependencies:
    ```
    pip install -r requirements.txt
+   
+    ```
+3. Run flask app:
+   
+  python flask.py
+
    ```
-3. Run Streamlit app:
+4. Run Streamlit app:
    ```
    streamlit run app.py
    ```
