@@ -52,7 +52,6 @@ The **tuned Random Forest model** achieved the best performance. An interactive 
    python flask.py
 
    ```
-
    ```
 4. Run Streamlit app:
    ```
